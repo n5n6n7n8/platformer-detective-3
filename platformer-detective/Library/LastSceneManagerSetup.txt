@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/MainSetting.unity
-=======
-- path: Assets/Scenes/PlatformerTest.unity
->>>>>>> 44b0207343fc2f8997747f7387287d009615b18d
   isLoaded: 1
   isActive: 1
   isSubScene: 0
