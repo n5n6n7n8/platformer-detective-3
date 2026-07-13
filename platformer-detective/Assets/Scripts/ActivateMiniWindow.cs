@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class ActivateMiniWindow : MonoBehaviour
 {
+    public GameObject miniWindow;
     void Start()
     {
+        miniWindow.SetActive(false);
         gameObject.SetActive(false);
     }
     public void hideWindow()

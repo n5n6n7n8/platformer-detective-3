@@ -353,6 +353,7 @@
 -analyzer:"/Users/natewong/unity/2022.3.62f2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Users/natewong/unity/2022.3.62f2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/ActivateMiniWindow.cs"
+"Assets/Scripts/AnimatePlatFadeIn.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/ScriptableStats.cs"
 -langversion:9.0
