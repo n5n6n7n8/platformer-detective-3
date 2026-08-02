@@ -356,6 +356,9 @@
 "Assets/Scripts/AnimatePlatFadeIn.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/ScriptableStats.cs"
+"Assets/Scripts/SpriteScripts/SpriteBillboard.cs"
+"Assets/Scripts/SpriteScripts/SpriteDirectionController.cs"
+"Assets/Scripts/ThreeDPlayerController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
